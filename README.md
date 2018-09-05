@@ -5,3 +5,11 @@
 "Team"
 
 = Care
+ $ Team
+ % Team 
+ & Team
+ @ Team
+ ! Team
+ * Team
+ ( Team
+ ) Team
